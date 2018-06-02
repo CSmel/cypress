@@ -1,0 +1,21 @@
+{
+  "name": "cypressTest",
+  "version": "1.0.0",
+  "description": "Cypress is a testing framework",
+  "main": "cypress-test.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cypressTest"
+  },
+  "keywords": [
+    "cypressTest"
+  ],
+  "author": "Melanie Sakas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.0.1"
+  }
+}
